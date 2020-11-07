@@ -1,0 +1,13 @@
+E:\Desktop\Text\xprogramming - html\2006.prog.emelt\2006tavaszF01\bin\Debug\netcoreapp3.1\2006tavaszF01.exe
+E:\Desktop\Text\xprogramming - html\2006.prog.emelt\2006tavaszF01\bin\Debug\netcoreapp3.1\2006tavaszF01.deps.json
+E:\Desktop\Text\xprogramming - html\2006.prog.emelt\2006tavaszF01\bin\Debug\netcoreapp3.1\2006tavaszF01.runtimeconfig.json
+E:\Desktop\Text\xprogramming - html\2006.prog.emelt\2006tavaszF01\bin\Debug\netcoreapp3.1\2006tavaszF01.runtimeconfig.dev.json
+E:\Desktop\Text\xprogramming - html\2006.prog.emelt\2006tavaszF01\bin\Debug\netcoreapp3.1\2006tavaszF01.dll
+E:\Desktop\Text\xprogramming - html\2006.prog.emelt\2006tavaszF01\bin\Debug\netcoreapp3.1\2006tavaszF01.pdb
+E:\Desktop\Text\xprogramming - html\2006.prog.emelt\2006tavaszF01\obj\Debug\netcoreapp3.1\2006tavaszF01.csprojAssemblyReference.cache
+E:\Desktop\Text\xprogramming - html\2006.prog.emelt\2006tavaszF01\obj\Debug\netcoreapp3.1\2006tavaszF01.AssemblyInfoInputs.cache
+E:\Desktop\Text\xprogramming - html\2006.prog.emelt\2006tavaszF01\obj\Debug\netcoreapp3.1\2006tavaszF01.AssemblyInfo.cs
+E:\Desktop\Text\xprogramming - html\2006.prog.emelt\2006tavaszF01\obj\Debug\netcoreapp3.1\2006tavaszF01.csproj.CoreCompileInputs.cache
+E:\Desktop\Text\xprogramming - html\2006.prog.emelt\2006tavaszF01\obj\Debug\netcoreapp3.1\2006tavaszF01.dll
+E:\Desktop\Text\xprogramming - html\2006.prog.emelt\2006tavaszF01\obj\Debug\netcoreapp3.1\2006tavaszF01.pdb
+E:\Desktop\Text\xprogramming - html\2006.prog.emelt\2006tavaszF01\obj\Debug\netcoreapp3.1\2006tavaszF01.genruntimeconfig.cache
