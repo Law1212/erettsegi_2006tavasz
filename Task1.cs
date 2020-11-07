@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using static _2006tavaszF01.Task2;
 
 // 2006tavasz 1. Feladat
 
@@ -18,9 +19,13 @@ using System.Collections.Generic;
 
 namespace _2006tavaszF01
 {
-    class Program
+    class Task1
     {
         static void Main(string[] args)
+        {
+            Task02();
+        }
+        static void Task01()
         {
             // Creating the 400 closed celldoors
             List<bool> cellDoors = new List<bool>();
@@ -45,7 +50,7 @@ namespace _2006tavaszF01
             // Rest of the servents
 
             int serventCounter = 3;
-            while(serventCounter != 401)
+            while (serventCounter != 401)
             {
                 for (int cellDoor = 0; cellDoor < cellDoors.Count; cellDoor++)
                 {
@@ -54,7 +59,7 @@ namespace _2006tavaszF01
                         cellDoors[cellDoor] = toggleDoorState(cellDoors[cellDoor]);
                         Console.WriteLine("I tuned celldoor " + cellDoor + " into " + cellDoors[cellDoor]);
                     }
-                        
+
                 }
                 serventCounter++;
             }
@@ -65,7 +70,7 @@ namespace _2006tavaszF01
 
             // Printing the indexes of the open cell doors
 
-            for(int h = 0; h < cellDoors.Count; h++)
+            for (int h = 0; h < cellDoors.Count; h++)
             {
                 if (cellDoors[h] == true)
                     Console.WriteLine("Celldoor at: " + (h + 1) + " is open!");
