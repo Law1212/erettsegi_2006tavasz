@@ -23,7 +23,7 @@ namespace _2006tavaszF01
     {
         static void Main(string[] args)
         {
-            Task02();
+            Console.WriteLine(Task02("4 + )3+4( * 5) - ( + 4"));
         }
         static void Task01()
         {
